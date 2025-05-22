@@ -1,0 +1,1 @@
+# Catgoldminer-Autoclicker
